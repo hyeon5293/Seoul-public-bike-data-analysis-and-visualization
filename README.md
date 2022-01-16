@@ -12,8 +12,8 @@
 - __서울 자치구 별 따릉이 LCD, QR 총합 거치대수 확인 : folium map이 깃허브에서 로드 불가로 밑 이미지 참조__
 - __서울 자치구 별 따릉이 대여 건수 확인 : folium map이 깃허브에서 로드 불가로 밑 이미지 참조__
 
-서울 자치구 별 따릉이 LCD, QR 총합 거치대수 확인
-![Bike1](https://user-images.githubusercontent.com/86647046/149650936-c8aef64f-1dfe-46d9-be40-2ee4ce175ab0.PNG)
----
-서울 자치구 별 따릉이 대여 건수 확인
-![Bike2](https://user-images.githubusercontent.com/86647046/149650983-9140feac-2b9e-4441-abeb-a8aa953d8e03.PNG)
+### 서울 자치구 별 따릉이 LCD, QR 총합 거치대수 확인
+> ![Bike1](https://user-images.githubusercontent.com/86647046/149650936-c8aef64f-1dfe-46d9-be40-2ee4ce175ab0.PNG)
+
+### 서울 자치구 별 따릉이 대여 건수 확인
+> ![Bike2](https://user-images.githubusercontent.com/86647046/149650983-9140feac-2b9e-4441-abeb-a8aa953d8e03.PNG)
