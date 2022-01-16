@@ -1,7 +1,6 @@
 # Seoul-public-bike-data-analysis-and-visualization
-
 # 서울시 따릉이 이용 정보 데이터 분석 및 시각화 프로젝트
----
+
 ## 서울시 공공자전거인 따릉이의 데이터를 분석하여 각종 데이터를 시각화
 - 이동거리가 가장 많은 대여소 TOP20
 - 사용시간이 가장 많은 대여소 TOP20
